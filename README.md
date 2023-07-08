@@ -215,10 +215,6 @@ resumen de todos los registros de datos presentes en el conjunto. El
 resultado es más de 1,1 millones de imágenes y cuadros de video en
 total.
 
-Ingeniería Informática vi
-
-UPCH Proyecto de Machine Learning
-
 A su vez, este conjunto se divide en cuatro categorías distintas:
 imágenes etique-tadas, imágenes sin etiquetar, imágenes segmentadas y
 videos etiquetados. En la Figura 3 se presentan todas las diferentes
@@ -271,15 +267,13 @@ de datos de HyperKvasir (Borgli y cols. 2020).
 Figura 3: Ejemplos de imágenes de las diversas clases etiquetadas para
 imágenes y/o videos (Borgli y cols. 2020).
 
-Ingeniería Informática viii
+![](./sljjvnli.png)
 
-UPCH Proyecto de Machine
-Learning![](./sljjvnli.png){width="5.354305555555555in"
-height="3.6572528433945757in"}![](./dzlyol2b.png){width="6.692746062992126in"
-height="2.9664916885389325in"}
 
 Cuadro 2: Hyper-Kvasir incluye las siguientes etiquetas de imagen para
 la parte etiquetada del conjunto de datos (Borgli y cols. 2020).
+
+![](./dzlyol2b.png)
 
 Figura 4: La cantidad de videos en las diversas clases de video
 etiquetadas de HyperKvasir según las carpetas de archivos (Borgli y
