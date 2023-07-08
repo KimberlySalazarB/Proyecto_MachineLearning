@@ -28,9 +28,6 @@
 > 8 de julio de 2023
 
 
-![](./23l04phd.png){width="5.354423665791776in"
-height="3.6522451881014875in"}
-
 1\. Problemática
 
 La detección temprana y el tratamiento del cáncer gastrointestinal son
@@ -43,6 +40,8 @@ el cuarto lugar entre las principales causas de muerte por cáncer. En
 2020 se diagnosticaron alrededor de 1,1 millones de nuevos casos de
 cáncer de estómago, lo que representa el 5,6% de todos los casos de
 cáncer (ver figura 1).
+
+![](./23l04phd.png)
 
 > Figura 1: Número de casos nuevos en 2020, ambos sexos, todas las
 > edades (Globocan 2020b)
