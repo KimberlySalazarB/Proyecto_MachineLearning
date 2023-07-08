@@ -40,7 +40,8 @@ el cuarto lugar entre las principales causas de muerte por cáncer. En
 2020 se diagnosticaron alrededor de 1,1 millones de nuevos casos de
 cáncer de estómago, lo que representa el 5,6% de todos los casos de
 cáncer (ver figura 1).
-
+>
+>
 ![](./23l04phd.png)
 
 > Figura 1: Número de casos nuevos en 2020, ambos sexos, todas las
