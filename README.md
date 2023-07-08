@@ -128,10 +128,6 @@ de falsos po-sitivos evaluados por lesión de 0,01 por imagen. Estos
 resultados representan una mejora en el rendimiento de detección en
 comparación con el método anterior.
 
-Ingeniería Informática iv
-
-UPCH Proyecto de Machine Learning
-
 Otro estudio titulado "Detección y caracterización del cáncer gástrico
 utilizando el modelo de aprendizaje profundo en cascada en imágenes
 endoscópicas" (Tera-moto y cols. 2022), menciona la herramienta U-net
@@ -175,13 +171,7 @@ gástricos.
 3.2.- Preprocesamiento de los datos: Una vez que tenemos los datos, el
 siguiente paso es procesarlos. Esto se aplica en la corrección de
 iluminación, la eliminación de ruido y el ajuste del tamaño de las
-imágenes para que todas tengan
-
-Ingeniería Informática v
-
-UPCH Proyecto de Machine Learning
-
-las mismas dimensiones.
+imágenes para que todas tengan las mismas dimensiones.
 
 3.3.- Implementación del modelo U-Net: Esta arquitectura combina los
 be-neficios del U-Net, que es especialmente bueno en la captura de
@@ -268,15 +258,15 @@ figura 4), que se organizan según el tracto gastrointestinal superior o
 inferior y las cuatro categorías principales: pólipos, cáncer,
 inflamación y otros (ver figura 5).
 
-Ingeniería Informática vii
 
-UPCH Proyecto de Machine
-Learning![](./2eeyzrhp.png){width="5.35430883639545in"
-height="1.4214370078740157in"}![](./i0kis3fn.png){width="6.693150699912511in"
-height="3.4200120297462817in"}
+
+![](./2eeyzrhp.png)
+
 
 Cuadro 1: Descripción general de los registros de datos en el conjunto
 de datos de HyperKvasir (Borgli y cols. 2020).
+
+![](./i0kis3fn.png)
 
 Figura 3: Ejemplos de imágenes de las diversas clases etiquetadas para
 imágenes y/o videos (Borgli y cols. 2020).
