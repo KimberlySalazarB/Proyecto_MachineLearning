@@ -1,8 +1,7 @@
 # Proyecto_MachineLearning
-![](./aksrcv4j.png){width="3.0243055555555554in"
-height="1.3263888888888888in"}UPCH Proyecto de Machine
-Learning![](./tyqt5rab.png){width="2.133332239720035in"
-height="2.1333333333333333in"}
+![](./aksrcv4j.png)
+Learning![](./tyqt5rab.png)
+
 
 > Facultad de Ciencias e Ingeniería
 >
