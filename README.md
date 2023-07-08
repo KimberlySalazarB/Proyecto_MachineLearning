@@ -1,10 +1,7 @@
 # Proyecto_MachineLearning
 ![](./aksrcv4j.png)
-Learning![](./tyqt5rab.png)
-
-
 > Facultad de Ciencias e Ingeniería
->
+(./tyqt5rab.png)
 > Segmentación de imágenes biomédicas
 >
 > Aplicación de U-net en Imágenes de Cancer Gastrointestinal -
