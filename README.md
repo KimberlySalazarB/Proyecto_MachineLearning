@@ -27,10 +27,8 @@
 >
 > 8 de julio de 2023
 
-Ingeniería Informática i
 
-UPCH Proyecto de Machine
-Learning![](./23l04phd.png){width="5.354423665791776in"
+![](./23l04phd.png){width="5.354423665791776in"
 height="3.6522451881014875in"}
 
 1\. Problemática
