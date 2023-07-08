@@ -56,13 +56,7 @@ asociada con la enfermedad gastritis atrófica. Asimismo, se observa una
 mayor tasa de 17 casos por cada 100 000 habitantes en hombres que en
 mujeres (Globocan 2020a). Sin embargo, considerando los 33 millones de
 habitantes, actualmente tenemos 871 patólogos clínicos y 9 patólogos
-oncológicos
-
-Ingeniería Informática ii
-
-UPCH Proyecto de Machine Learning
-
-según el registro nacional de especialistas del Colegio Médico del Perú
+oncológicos según el registro nacional de especialistas del Colegio Médico del Perú
 (CMP 2023). En el 2021, se registraron 252 patólogos clínicos y 1
 patólogo oncológico que laboraron en el MINSA (MINSA 2021). Cabe
 resaltar, que el principal método de diagnóstico es la endoscopia que
@@ -97,19 +91,16 @@ o reaccio-nes a los medicamentos utilizados para la sedación.
 \- Puede ser necesario seguir una dieta específica o tomar laxantes
 antes del pro-cedimiento para limpiar el tracto gastrointestinal.
 
-Ingeniería Informática iii
 
-![](./l3fjjswk.png){width="5.354732064741907in"
-height="3.0987226596675415in"}
 
-UPCH
+![](./l3fjjswk.png)
+
 
 > Figura 2:
->
-> Proyecto de Machine Learning
-
-Número de casos nuevos en 2020, ambos sexos, todas las edades (Globocan
+>Número de casos nuevos en 2020, ambos sexos, todas las edades (Globocan
 2020a)
+
+
 
 Por otra parte, en México, este tipo de cáncer se ubica entre las diez
 principales causas de muerte (Martinez-Carrillo, Arzeta Camero, y
