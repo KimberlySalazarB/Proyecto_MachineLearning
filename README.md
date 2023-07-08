@@ -2,9 +2,9 @@
 ![](./aksrcv4j.png)
 > Facultad de Ciencias e Ingeniería
 >
-#Segmentación de imágenes biomédicas
+# Segmentación de imágenes biomédicas
 >
-#Aplicación de U-net en Imágenes de Cancer Gastrointestinal - HyperKvasir
+# Aplicación de U-net en Imágenes de Cancer Gastrointestinal - HyperKvasir
 >
 ![](./tyqt5rab.png)
 >
