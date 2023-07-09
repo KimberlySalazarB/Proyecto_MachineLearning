@@ -323,10 +323,9 @@ UPCH Proyecto de Machine
 Learning![](./34taduvk.png){width="4.015777559055118in"
 height="3.2126213910761154in"}
 
-los datos en lotes. Para cada lote, se calcula la predicción del modelo
+las imagenes. Se calcula la predicción del modelo
 y se compara con la máscara verdadera utilizando el Sørensen-Dice.
-Finalmente, se devuelve el promedio del Sørensen-Dice sobre todos los
-lotes. También es posible calcular el gradiente del Sørensen-Dice
+Finalmente, se devuelve el promedio del Sørensen-Dice sobre todas las imagenes. También es posible calcular el gradiente del Sørensen-Dice
 durante el entrenamiento si es necesario (ver figura 6).
 
 > Figura 6: Proceso de recorte y escalamiento respectivamente.
@@ -411,7 +410,7 @@ respectivos resultados de las métricas Sørensen-Dice y IoU.
 
 Un valor de Sørensen-Dice de 79%, indica una buena coincidencia entre la
 segmen-tación predicha y la segmentación verdadera. Un valor de IoU de
-69%, también indica una buena coincidencia, aunque un poco más baja que
+65%, también indica una buena coincidencia, aunque un poco más baja que
 el valor de Sørensen-Dice. En general, cuanto más cerca estén estos
 valores AL 100%, mejor será el rendimiento del modelo de segmentación de
 imágenes.
